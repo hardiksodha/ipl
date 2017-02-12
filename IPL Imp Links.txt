@@ -1,0 +1,5 @@
+https://spring.io/guides/gs/accessing-data-rest/
+http://stackoverflow.com/questions/24655684/spring-boot-default-h2-jdbc-connection-and-h2-console
+http://stackoverflow.com/questions/37903105/how-to-configure-spring-boot-to-use-file-based-h2-databse
+http://websystique.com/spring-boot/spring-boot-angularjs-spring-data-jpa-crud-app-example/
+http://websystique.com/spring-boot/spring-boot-angularjs-spring-data-jpa-crud-app-example/
