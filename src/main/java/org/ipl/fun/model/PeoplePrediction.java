@@ -1,4 +1,4 @@
-package hello;
+package org.ipl.fun.model;
 
 import javax.persistence.*;
 
