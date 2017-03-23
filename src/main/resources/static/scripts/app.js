@@ -3,7 +3,7 @@
  * Created by Hardik on 08-03-2017.
  */
 
-var myApp = angular.module('myApp', ['ngRoute']);
+var myApp = angular.module('myApp', ['ngRoute','ui.grid','ui.grid.pagination']);
 
 // configure our routes
 var routeFunction = function($routeProvider) {

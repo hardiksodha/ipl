@@ -6,7 +6,8 @@ import javax.persistence.*;
  * Created by Hardik on 28-01-2017.
  */
 @Entity
-public class PeoplePrediction {
+public class Prediction
+{
 
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)

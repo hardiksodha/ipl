@@ -7,23 +7,29 @@
 <body>
 <p>Welcome IPL</p>
 <table border="1">
-    <tr >
+                
+    <div ui-grid="mySchedule.gridOptions" class="grid" ui-grid-pagination>
+                    
+    </div>
+
+    <!--<tr>
         <td>Match</td>
         <td>Your Prediction</td>
 
     </tr>
     <TR ng-repeat="t in mySchedule.scheduleList">
+        <td>{{t.matchid}}</td>
         <TD>
             {{ t.firstTeam }} v/s {{ t.secondTeam }}
         </TD>
         <td>
-            <select ng-model="mySchedule.selectedTeam[{{index}}]">
+            <select>
                 <option selected value="{{t.firstTeam}}">{{t.firstTeam}}</option>
                 <option value="{{t.secondTeam}}">{{t.secondTeam}}</option>
 
             </select>
         </td>
-    </TR>
+    </TR>-->
     <input type="button" onClick="mySchedule.getSelectedTeamNames()">
 </table>
 </body>

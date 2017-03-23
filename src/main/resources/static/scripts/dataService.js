@@ -11,10 +11,12 @@ function dataService($http) {
         getSchedule : getSchedule
     };  
     
-    function getSchedule() {
+    function getSchedule(pageNumber,size) {
+        pageNumber = pageNumber > 0?pageNumber - 1:0;
+
         return $http({
             method: 'GET',
-            url: 'http://localhost:8080/schedule'
+            url: 'http://localhost:8080/schedule?page='+pageNumber
         })
             .then(sendResponseData)
             .catch(sendError)
