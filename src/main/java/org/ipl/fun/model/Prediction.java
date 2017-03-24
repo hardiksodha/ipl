@@ -14,7 +14,7 @@ public class Prediction
     private long predictionId;
 
     @ManyToOne(fetch = FetchType.LAZY)
-    private People people;
+    private User people;
 
     @ManyToOne(fetch = FetchType.LAZY)
     private Schedule schedule;
@@ -37,11 +37,11 @@ public class Prediction
         this.predictionId = predictionId;
     }
 
-    public People getPeople() {
+    public User getPeople() {
         return people;
     }
 
-    public void setPeople(People people) {
+    public void setPeople(User people) {
         this.people = people;
     }
 

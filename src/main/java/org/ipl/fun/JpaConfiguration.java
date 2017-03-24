@@ -1,6 +1,7 @@
 package org.ipl.fun;
 
 import org.h2.server.web.WebServlet;
+import org.hibernate.SessionFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.autoconfigure.jdbc.DataSourceBuilder;
 import org.springframework.boot.autoconfigure.jdbc.DataSourceProperties;
@@ -12,6 +13,7 @@ import org.springframework.context.annotation.Primary;
 import org.springframework.core.env.Environment;
 import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 import org.springframework.jdbc.datasource.DriverManagerDataSource;
+import org.springframework.orm.hibernate5.LocalSessionFactoryBean;
 import org.springframework.orm.jpa.JpaTransactionManager;
 import org.springframework.orm.jpa.JpaVendorAdapter;
 import org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean;
@@ -23,6 +25,7 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 import javax.naming.NamingException;
 import javax.persistence.EntityManagerFactory;
 import javax.sql.DataSource;
+import java.util.ArrayList;
 import java.util.Properties;
 
 /**
@@ -102,5 +105,25 @@ public class JpaConfiguration {
         registration.addUrlMappings("/console/*");
         return registration;
     }
+
+    @Bean
+    public LocalSessionFactoryBean sessionFactory(){
+        LocalSessionFactoryBean bean = new LocalSessionFactoryBean();
+        bean.setDataSource(dataSource());
+        bean.setPackagesToScan(new String[]{"org.ipl.fun.model"});
+        bean.setHibernateProperties(jpaProperties());
+        return bean;
+    }
+
+   /* @Bean
+    public SessionFactory sessionFactory() {
+        LocalSessionFactoryBean factoryBean = new LocalSessionFactoryBean();
+        factoryBean.setDataSource(dataSource());
+        factoryBean.setPackagesToScan(new String[]{"org.ipl.fun.dao"});
+        factoryBean.setHibernateProperties(jpaProperties());
+
+//        factoryBean.setMappingResources(mappingFiles);
+        return this.getObject(SessionFactory.class, factoryBean);
+    }*/
 
 }
