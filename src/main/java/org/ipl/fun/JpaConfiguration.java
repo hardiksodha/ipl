@@ -106,6 +106,7 @@ public class JpaConfiguration {
         return registration;
     }
 
+   //Used for Hiberante
     @Bean
     public LocalSessionFactoryBean sessionFactory(){
         LocalSessionFactoryBean bean = new LocalSessionFactoryBean();
@@ -115,15 +116,5 @@ public class JpaConfiguration {
         return bean;
     }
 
-   /* @Bean
-    public SessionFactory sessionFactory() {
-        LocalSessionFactoryBean factoryBean = new LocalSessionFactoryBean();
-        factoryBean.setDataSource(dataSource());
-        factoryBean.setPackagesToScan(new String[]{"org.ipl.fun.dao"});
-        factoryBean.setHibernateProperties(jpaProperties());
-
-//        factoryBean.setMappingResources(mappingFiles);
-        return this.getObject(SessionFactory.class, factoryBean);
-    }*/
 
 }
