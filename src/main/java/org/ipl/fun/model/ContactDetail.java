@@ -13,9 +13,6 @@ public class ContactDetail {
     @GeneratedValue(strategy = GenerationType.AUTO)
     private long id;
 
-    @ManyToOne
-    Person person;
-
     private String mobile;
     private String email;
     private String landLine;
@@ -29,13 +26,6 @@ public class ContactDetail {
         this.id = id;
     }
 
-    public Person getPerson() {
-        return person;
-    }
-
-    public void setPerson(Person person) {
-        this.person = person;
-    }
 
     public String getMobile() {
         return mobile;
