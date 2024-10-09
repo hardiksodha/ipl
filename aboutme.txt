@@ -1,0 +1,41 @@
+1. Leadership and Team Management
+Throughout the year, I have taken active roles in leadership by spearheading multiple initiatives across the NGCB domain. Notably, I have:
+- Mentorship: Acted as a core member of the NGCB mentoring team and control board member, helping create meaningful mentoring pairs for skill development.
+- Supportive Leadership: Provided emotional and professional support to colleagues by reading through HR policies and guiding them through challenging times.
+- Cross-functional Support: Helped a colleague fulfill their desire to work in a different domain, ensuring no disruption to the team’s ongoing deliverables.
+- Extended Leadership: Supported the launch of key initiatives, such as Arrow, by offering extended hours and effort to ensure timely delivery.
+
+2. Project Delivery and Strategic Contributions
+I led several high-impact projects within the organization, enhancing our technology stack and customer experience:
+- Lambda Authorizer Enhancements: Drove critical improvements that enhanced the security of our API and microservice infrastructure.
+- Tech Upgrades: Successfully led the upgrade initiatives for Java 17, Spring Boot 3, and Python 3.11, ensuring our tech stack remains up-to-date and efficient.
+- Context-Based Security Enhancements: Led the design and development of the Context-Based Eligibility Check Utility for NGCB, improving security checks and saving critical processing time.
+- Environment Compatibility Checker: Designed a utility that identified environment gaps, saving hours of troubleshooting and ensuring production-like environments for testing fixes.
+- Payments, Authentication, and ATD Improvements: Ensured smooth operations across Payments, Auth, and ATD domains, contributing to more reliable production services.
+  
+3. Technical Excellence and Innovation
+This year, I have pushed forward with innovations that enhance technical processes and reduce operational overhead:
+- Data Sync Design: Developed robust solutions for syncing data, ensuring smooth and efficient transfers across our systems.
+- Route 53 POCs: Drove proof-of-concept work for AWS Route 53, exploring DNS management improvements.
+- Behavioral Design: Played a critical role in the design process by providing feedback that improved the user experience and system behavior.
+- Performance Improvements: Led several performance enhancement initiatives, resulting in optimized systems and improved response times.
+
+4. Product Delivery and Client-Centric Solutions
+I led significant product and customer-facing developments, driving business success:
+- Account Closure and Balance Transfer Journeys: Managed and delivered key customer initiatives such as Account Closures (Strategic, Bank-Initiated, and Customer-Initiated) and Balance Transfer Journeys from the Payments and ATD sides.
+- Account Sale Guarding: Ensured that account sales were safeguarded, minimizing risk during sales transitions.
+- Self-Serve Decommissioning: Contributed to reducing technical debt by leading the Self-Serve Decommissioning initiative.
+  
+5. Awards and Recognition
+- BUK Technical Blog Award: I was honored with a BUK-level award for my technical blog on Securing APIs and Microservices in a Blogbuster Competition.
+  
+6. Community and Collaboration
+- Citizenship Event: Actively participated in citizenship events such as the Cleanliness Drive, contributing to the company’s social responsibility initiatives.
+- Book Club Participation: Registered and prepared to present a book in our upcoming book club meeting, fostering knowledge sharing and personal development.
+- Workshops: Facilitated workshops focused on solving production issues and improving log generation for critical events, improving overall system monitoring and debugging efficiency.
+
+7. Challenges and Growth
+While delivering on multiple fronts, I extended myself to support different domains without compromising on the quality and timelines of ongoing projects. This year, my growth has been deeply intertwined with expanding my leadership footprint and continuing to deliver technical excellence across strategic initiatives.
+
+8. Future Goals
+Looking ahead, I aim to continue driving innovation, increasing automation across NGCB, and exploring new avenues for security enhancements, particularly in cloud environments. My focus will remain on nurturing talent within the team, improving cross-domain collaboration, and contributing to more sustainable and scalable solutions for our products.
