@@ -1,41 +1,43 @@
-1. Leadership and Team Management
-Throughout the year, I have taken active roles in leadership by spearheading multiple initiatives across the NGCB domain. Notably, I have:
-- Mentorship: Acted as a core member of the NGCB mentoring team and control board member, helping create meaningful mentoring pairs for skill development.
-- Supportive Leadership: Provided emotional and professional support to colleagues by reading through HR policies and guiding them through challenging times.
-- Cross-functional Support: Helped a colleague fulfill their desire to work in a different domain, ensuring no disruption to the team’s ongoing deliverables.
-- Extended Leadership: Supported the launch of key initiatives, such as Arrow, by offering extended hours and effort to ensure timely delivery.
 
-2. Project Delivery and Strategic Contributions
-I led several high-impact projects within the organization, enhancing our technology stack and customer experience:
-- Lambda Authorizer Enhancements: Drove critical improvements that enhanced the security of our API and microservice infrastructure.
-- Tech Upgrades: Successfully led the upgrade initiatives for Java 17, Spring Boot 3, and Python 3.11, ensuring our tech stack remains up-to-date and efficient.
-- Context-Based Security Enhancements: Led the design and development of the Context-Based Eligibility Check Utility for NGCB, improving security checks and saving critical processing time.
-- Environment Compatibility Checker: Designed a utility that identified environment gaps, saving hours of troubleshooting and ensuring production-like environments for testing fixes.
-- Payments, Authentication, and ATD Improvements: Ensured smooth operations across Payments, Auth, and ATD domains, contributing to more reliable production services.
+
+#### 1. **Collaboration and Cross-Functional Support**
+This year, I made collaboration across teams and departments a key focus:
+- **Cross-Team Collaboration**: I consistently worked across domains, providing support for initiatives like **Payments**, **ATD**, and **NGCB** without compromising delivery timelines. Whether helping a colleague explore other domains or supporting the **Arrow launch**, I ensured that each interaction was built on clear communication and teamwork.
+- **Mentorship**: As part of the **NGCB Mentorship Program**, I helped foster an environment of learning and development. By connecting mentors and mentees, I facilitated growth for others while refining my own leadership approach.
+- **Stakeholder Engagement**: I maintained open communication with both internal and external stakeholders to ensure alignment on project goals, especially for strategic projects like **Account Closures** and **Balance Transfers**. This helped avoid last-minute surprises and ensured smooth deliveries.
+
+#### 2. **Leadership and Empowerment**
+As a VP of Engineering, I prioritized leadership that empowered my team to succeed:
+- **Leading by Example**: I took ownership of complex tasks, such as upgrading to **Java 17**, **Spring Boot 3**, and **Python 3.11**, setting a high standard for technical excellence. This inspired the team to take initiative in their areas of responsibility.
+- **Empowering Others**: I provided opportunities for team members to take on challenging roles, helping them grow professionally. I also supported colleagues emotionally by guiding them through HR policies during tough times, ensuring they felt supported both personally and professionally.
+- **Delegation and Trust**: By encouraging team members to take ownership of different components, such as **Context-Based Eligibility Checks**, I built a culture of trust, allowing individuals to contribute their best work while I offered guidance and feedback when needed.
+
+#### 3. **Innovation and Problem-Solving**
+I consistently pushed for innovation and addressed challenges with a proactive mindset:
+- **Innovative Thinking**: I developed the **Environment Compatibility Checker Utility**, which identified gaps in production environments and drastically reduced time spent troubleshooting. This was a clear example of my commitment to proactive problem-solving.
+- **Analytical Approach**: Whether driving improvements through the **Behavioral Design Development Process** or solving system issues through performance upgrades, I used a data-driven approach to make decisions. This led to measurable improvements, including smoother operations in **Payments**, **Auth**, and **ATD**.
+- **Process Improvement**: Facilitating workshops on production queries and log generation helped us identify and solve critical system bottlenecks, improving the team’s ability to respond quickly to system failures and enhancing overall system reliability.
+
+#### 4. **Adaptability and Resilience**
+This year brought several challenges, but I embraced each one with resilience and adaptability:
+- **Extended Efforts**: During the launch of **Arrow**, I extended hours to meet deadlines and provided critical support to ensure smooth delivery, demonstrating my adaptability in high-pressure situations.
+- **Balancing Multiple Priorities**: I managed multiple high-impact projects, such as **Account Closures**, **Balance Transfers**, and **Self-Serve Decommissioning**, all while contributing to performance improvement efforts and facilitating workshops. I balanced these responsibilities without compromising on quality, which underscores my ability to prioritize and remain adaptable.
+- **Continuous Learning**: Registering for the **Book Club** and participating in citizenship initiatives reflects my commitment to personal growth and contributing to the broader community, which helps me remain adaptable in different settings.
+
+#### 5. **Inclusivity and Team Well-Being**
+I prioritized inclusivity and the well-being of my team to ensure a positive work environment:
+- **Emotional Support**: Supporting colleagues during tough personal situations by referring to HR policies and offering guidance showed my commitment to their well-being. I believe that a strong, emotionally supported team is a more productive and loyal one.
+- **Diversity of Thought**: Encouraging colleagues to work in other domains and supporting their aspirations ensured that each team member felt included and valued. This also enriched the diversity of thought within our team, leading to more innovative solutions.
+
+#### 6. **Customer and Business Focus**
+Throughout the year, I remained focused on delivering value to both the customer and the business:
+- **Customer-Centric Solutions**: I led several customer-facing projects, such as the **Balance Transfer Journey**, **Account Closure**, and **Account Onboarding**, ensuring that our solutions were seamless and met customer needs. I regularly solicited feedback from stakeholders to keep our projects aligned with business priorities.
+- **Efficiency and Cost-Saving**: By leading the **Self-Serve Decommissioning** and **Account Sale Guarding** initiatives, I contributed to reducing operational overhead and technical debt, keeping our systems lean and efficient.
   
-3. Technical Excellence and Innovation
-This year, I have pushed forward with innovations that enhance technical processes and reduce operational overhead:
-- Data Sync Design: Developed robust solutions for syncing data, ensuring smooth and efficient transfers across our systems.
-- Route 53 POCs: Drove proof-of-concept work for AWS Route 53, exploring DNS management improvements.
-- Behavioral Design: Played a critical role in the design process by providing feedback that improved the user experience and system behavior.
-- Performance Improvements: Led several performance enhancement initiatives, resulting in optimized systems and improved response times.
+#### 7. **Ethical Responsibility and Integrity**
+In all my efforts, I maintained a high level of integrity:
+- **Fairness and Ethics**: Whether mentoring junior team members or supporting colleagues through HR challenges, I ensured that my actions were fair, transparent, and in line with the company’s core values. My commitment to integrity is reflected in every decision I made this year.
 
-4. Product Delivery and Client-Centric Solutions
-I led significant product and customer-facing developments, driving business success:
-- Account Closure and Balance Transfer Journeys: Managed and delivered key customer initiatives such as Account Closures (Strategic, Bank-Initiated, and Customer-Initiated) and Balance Transfer Journeys from the Payments and ATD sides.
-- Account Sale Guarding: Ensured that account sales were safeguarded, minimizing risk during sales transitions.
-- Self-Serve Decommissioning: Contributed to reducing technical debt by leading the Self-Serve Decommissioning initiative.
-  
-5. Awards and Recognition
-- BUK Technical Blog Award: I was honored with a BUK-level award for my technical blog on Securing APIs and Microservices in a Blogbuster Competition.
-  
-6. Community and Collaboration
-- Citizenship Event: Actively participated in citizenship events such as the Cleanliness Drive, contributing to the company’s social responsibility initiatives.
-- Book Club Participation: Registered and prepared to present a book in our upcoming book club meeting, fostering knowledge sharing and personal development.
-- Workshops: Facilitated workshops focused on solving production issues and improving log generation for critical events, improving overall system monitoring and debugging efficiency.
+---
 
-7. Challenges and Growth
-While delivering on multiple fronts, I extended myself to support different domains without compromising on the quality and timelines of ongoing projects. This year, my growth has been deeply intertwined with expanding my leadership footprint and continuing to deliver technical excellence across strategic initiatives.
-
-8. Future Goals
-Looking ahead, I aim to continue driving innovation, increasing automation across NGCB, and exploring new avenues for security enhancements, particularly in cloud environments. My focus will remain on nurturing talent within the team, improving cross-domain collaboration, and contributing to more sustainable and scalable solutions for our products.
+This "How" self-evaluation highlights the behavioral aspects of your leadership and work style, complementing your achievements in the "What" section. Let me know if you'd like any revisions!
